@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/myfilesystem.dir/file.c.o CMakeFiles/myfilesystem.dir/fs.c.o CMakeFiles/myfilesystem.dir/login.c.o CMakeFiles/myfilesystem.dir/main.c.o CMakeFiles/myfilesystem.dir/users.c.o CMakeFiles/myfilesystem.dir/chmod.c.o  -o myfilesystem 

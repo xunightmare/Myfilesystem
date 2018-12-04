@@ -1,0 +1,3 @@
+/home/xnightmare/Desktop/myfilesystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xnightmare/Desktop/myfilesystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xnightmare/Desktop/myfilesystem/cmake-build-debug/CMakeFiles/myfilesystem.dir

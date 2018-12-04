@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xnightmare/Desktop/myfilesystem/file.c
+main.h
+/home/xnightmare/Desktop/myfilesystem/main.h
+
+/home/xnightmare/Desktop/myfilesystem/fs.c
+main.h
+/home/xnightmare/Desktop/myfilesystem/main.h
+
+/home/xnightmare/Desktop/myfilesystem/main.c
+main.h
+/home/xnightmare/Desktop/myfilesystem/main.h
+
+/home/xnightmare/Desktop/myfilesystem/main.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/home/xnightmare/Desktop/myfilesystem/users.c
+main.h
+/home/xnightmare/Desktop/myfilesystem/main.h
+
